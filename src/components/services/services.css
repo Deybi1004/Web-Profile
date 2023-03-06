@@ -142,5 +142,8 @@
         .services__container{
             grid-template-columns: max-content;
         }
+        .services__content{
+            padding-right: 6rem;
+        }
   }
   
