@@ -26,21 +26,21 @@ function Services() {
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon">
+                                <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">I develop the user interface</p>
-                                </i>
+                                
                             </li>
 
                             <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon">
+                                <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">Web page development</p>
-                                </i>
+                               
                             </li>
 
                             <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon">
+                                <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">I create ux element interactions</p>
-                                </i>
+                                
                             </li>
                         </ul>
                     </div>
@@ -61,21 +61,22 @@ function Services() {
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon">
+
+                                <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">I develop the user interface</p>
-                                </i>
+                                
                             </li>
 
                             <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon">
+                                <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">Web page development</p>
-                                </i>
+                                
                             </li>
 
                             <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon">
+                                <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">I create ux element interactions</p>
-                                </i>
+                                
                             </li>
                         </ul>
                     </div>
@@ -96,21 +97,21 @@ function Services() {
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon">
+                                <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">I develop the user interface</p>
-                                </i>
+                                
                             </li>
 
                             <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon">
+                                <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">Web page development</p>
-                                </i>
+                                
                             </li>
 
                             <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon">
+                                <i className="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">I create ux element interactions</p>
-                                </i>
+                                
                             </li>
                         </ul>
                     </div>
