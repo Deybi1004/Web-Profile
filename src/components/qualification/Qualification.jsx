@@ -20,17 +20,17 @@ function Qualification() {
                     Experience
                 </div> 
 
-                <div className="qualification__button button--flex">
-                    <i className="uil uil- qualification__icon"></i>
-                </div> 
+               
             </div>
 
             <div className="qualification__sections">
                 <div className="qualification__content qualification__content-active">
 
                     <div className="qualification__data">
+                        
                         <div>
                             <h3 className="qualification__title">Web Design</h3>
+                        
                             <span className="qualification__subtitle">Spain - Institute</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i>
