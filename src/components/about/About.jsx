@@ -16,7 +16,7 @@ function About() {
                 <p className="about__description">Full Stack developer, I create web pages with UI / UI user interface, I have months of experiences and many clients are happy with the projects carried out.</p>
                 <a download ="" href={CV} className="button button--">Download CV
                 <svg
-                class="button__icon"
+                className="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
                 height="24"

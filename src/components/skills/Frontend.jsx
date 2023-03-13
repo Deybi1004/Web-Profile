@@ -9,7 +9,7 @@ function Frontend() {
             <div className="skills__group">
               
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i className='bx bx-badge-check'></i>
                 
                 <div>
                   <h3 className="skills__name">HTML</h3>
@@ -18,7 +18,7 @@ function Frontend() {
                 </div>
 
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i className='bx bx-badge-check'></i>
                 
                 <div>
                   <h3 className="skills__name">CSS</h3>
@@ -27,7 +27,7 @@ function Frontend() {
                 </div>
 
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i className='bx bx-badge-check'></i>
                 
                 <div>
                   <h3 className="skills__name">Javascript</h3>
@@ -36,7 +36,7 @@ function Frontend() {
                 </div>
 
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i className='bx bx-badge-check'></i>
                 
                 <div>
                   <h3 className="skills__name">React JS</h3>
@@ -49,7 +49,7 @@ function Frontend() {
             <div className="skills__group">
               
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i className='bx bx-badge-check'></i>
                 
                 <div>
                   <h3 className="skills__name">Redux</h3>
@@ -58,7 +58,7 @@ function Frontend() {
                 </div>
 
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i className='bx bx-badge-check'></i>
                 
                 <div>
                   <h3 className="skills__name">Git</h3>
@@ -67,7 +67,7 @@ function Frontend() {
                 </div>
 
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i className='bx bx-badge-check'></i>
                 
                 <div>
                   <h3 className="skills__name">SASS</h3>
