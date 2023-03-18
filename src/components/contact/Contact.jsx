@@ -77,6 +77,7 @@ function Contact() {
               <label className="contact__form-tag">Name</label>
               <input
                 type="text"
+                required={true}
                 name="name"
                 className="contact__form-input"
                 placeholder="Insert your name"
@@ -87,6 +88,7 @@ function Contact() {
               <label className="contact__form-tag">Mail</label>
               <input
                 type="email"
+                required={true}
                 name="email"
                 className="contact__form-input"
                 placeholder="Insert your email"
@@ -97,6 +99,7 @@ function Contact() {
               <label className="contact__form-tag">Project</label>
               <textarea
                 name="project"
+                required={true}
                 cols="30"
                 rows="10"
                 className="contact__form-input"
