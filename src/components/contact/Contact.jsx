@@ -1,16 +1,20 @@
-import React, { useRef } from 'react';
-import emailjs from '@emailjs/browser';
+import React, { useRef } from "react";
+import emailjs from "@emailjs/browser";
 import "./contact.css";
 
 function Contact() {
-
   const form = useRef();
 
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_5uygcja', 'template_of3sfmf', form.current, 'IBJO67_9PdO6rRmvz')
-      e.target.reset()
+    emailjs.sendForm(
+      "service_5uygcja",
+      "template_of3sfmf",
+      form.current,
+      "IBJO67_9PdO6rRmvz"
+    );
+    e.target.reset();
   };
 
   return (
@@ -29,7 +33,12 @@ function Contact() {
               <h3 className="contact__card-title">Email</h3>
               <span className="contact__card-data">deybiorrego@gmail.com</span>
 
-              <a href="deybiorrego@gmail.com" className="contact__button">
+              <a
+                href="deybiorrego@gmail.com"
+                target="_blank"
+                rel="noreferrer"
+                className="contact__button"
+              >
                 Write me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
@@ -44,6 +53,7 @@ function Contact() {
               <a
                 href="https://api.whatsapp.com/send?phone=51939416975&text=Hola , deseo más información"
                 target="_blank"
+                rel="noreferrer"
                 className="contact__button"
               >
                 Write me
@@ -60,6 +70,7 @@ function Contact() {
               <a
                 href="https://www.linkedin.com/in/deybi-orrego-a3b1b2237/"
                 target="_blank"
+                rel="noreferrer"
                 className="contact__button"
               >
                 Write me
