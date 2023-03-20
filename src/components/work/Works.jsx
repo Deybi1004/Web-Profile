@@ -16,7 +16,7 @@ function Works() {
 
     <div className="work__container container grid">{projectsData.map((item) => {
         return (
-            <WorkItems />
+            <WorkItems item={item} key= {item.id} />
         )
     })}</div>
     </div>
