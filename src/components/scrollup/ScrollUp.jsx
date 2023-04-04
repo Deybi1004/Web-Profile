@@ -13,7 +13,7 @@ function ScrollUp() {
     })
 
   return (
-    <a href="#" className="scrollup">
+    <a href="#" target= "_self"className="scrollup">
         <i className="uil uil-arrow-up scrollup__icon"></i>
     </a>
   )
